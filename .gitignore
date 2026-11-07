@@ -1,0 +1,99 @@
+# ==============================
+# Compiled Files and Executables
+# ==============================
+
+# C / C++
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ==============================
+# Build Directories
+# ==============================
+
+build/
+dist/
+target/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# ==============================
+# Python Environments and Caches
+# ==============================
+
+venv/
+.venv/
+env/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# ==============================
+# Java Build Tools
+# ==============================
+
+.gradle/
+
+# ==============================
+# JavaScript / Node.js
+# ==============================
+
+node_modules/
+.next/
+coverage/
+
+# ==============================
+# IDE and Editor Files
+# ==============================
+
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ==============================
+# Operating System Files
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Logs and Temporary Files
+# ==============================
+
+*.log
+*.tmp
+*.temp
+*.bak
+
+# ==============================
+# Environment and Secret Files
+# ==============================
+
+.env
+.env.*
+!.env.example
