@@ -1,48 +1,75 @@
-# CSE SPL Lab Programs
+# CSE Lab Works
 
-Structured Programming Language (SPL) Lab programs for the Department of Computer Science and Engineering (CSE), Institute of Science and Technology, Dhanmondi, which is affiliated with the National University of Bangladesh.
+A collection of laboratory programs, practical assignments, and coursework completed during the Bachelor of Science (BSc) in Computer Science and Engineering (CSE) program at the Institute of Science and Technology (IST), Dhanmondi, affiliated with the National University of Bangladesh.
 
-## Structure
+## Repository Structure
 
-- Programs are grouped by lab date: `YYYY-MM-DD/NN-Program-Name/`
-- Each program folder contains the source file(s) and a `README.md` with the program's key features.
-- If a program has two solutions, each method is a separate file in the same folder.
-- Extra programs that were not part of the lab are in the `Other/` folder.
+The repository is organized by academic year, semester, and course.
 
-**Status:** ✅ = done, ⬜ = not done yet
-
-## Lab Programs
-
-| Date | # | Program | Method | C | C++ | Python |
-|------|---|---------|--------|---|-----|--------|
-| 2026-06-30 | 01 | Print Name, Roll and Favorite Subject | [Multiple printf](/2026-06-30/01-Newline-Escape-Sequence/Newline-Multiple-Printf.c)<br>[Single printf](/2026-06-30/01-Newline-Escape-Sequence/Newline-Single-Printf.c) | ✅ | ⬜ | ⬜ |
-| 2026-06-30 | 02 | [Tab Escape Sequence](/2026-06-30/02-Tab-Escape-Sequence/Tab-Escape-Sequence.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-08-11 | 03 | [Area and Perimeter of a Circle](/2026-08-11/03-Area-and-Perimeter-of-the-Circle/Area-and-Perimeter-of-the-Circle.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-08-11 | 04 | [Area and Perimeter of a Rectangle](/2026-08-11/04-Area-and-Perimeter-of-the-Rectangle/Area-and-Perimeter-of-the-Rectangle.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-02 | 05 | [Check Even or Odd](/2026-09-02/05-Check-Even-Or-Odd/Check-Even-Or-Odd.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-07 | 06 | [Temperature Conversion (Celsius and Fahrenheit)](/2026-09-07/06-Convert-Temperature-Celsius-Fahrenheit/Convert-Temperature-Celsius-Fahrenheit.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-14 | 07 | [Roots of a Quadratic Equation](/2026-09-14/07-Find-Roots-Of-Quadratic-Equation/Find-Roots-Of-Quadratic-Equation.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-14 | 08 | Factorial of a Number | [Decrementing loop](/2026-09-14/08-Find-Factorial-Of-A-Number/Find-Factorial-Of-A-Number-Using-Decrementing-Loop.c)<br>[Incrementing loop](/2026-09-14/08-Find-Factorial-Of-A-Number/Find-Factorial-Of-A-Number-Using-Incrementing-Loop.c) | ✅ | ⬜ | ⬜ |
-| 2026-09-29 | 09 | [Factorial Series Sum](/2026-09-29/09-Factorial-Series-Sum/Factorial-Series-Sum.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-29 | 10 | [Fibonacci Series](/2026-09-29/10-Fibonacci-Series/Fibonacci-Series.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-10-27 | 11 | Smallest of Three Numbers | [Multiple printf](2026-10-27/11-Find-Smallest-Among-Three-Numbers/Smallest-Number-Multiple-Printf.c)<br>[Single printf](/2026-10-27/11-Find-Smallest-Among-Three-Numbers/Smallest-Number-Single-Printf.c) | ✅ | ⬜ | ⬜ |
-| 2026-11-01 | 12 | Toggle the Case of a Letter | [Assign](2026-11-01/12-Toggle-Case/Toggle-Case-Assign.c)<br>[Direct](2026-11-01/12-Toggle-Case/Toggle-Case-Direct.c) | ✅ | ⬜ | ⬜ |
-| 2026-11-01 | 13 | [Array: Sum, Average and Maximum](/2026-11-01/13-Array-Sum-Avg-Max/Array-Sum-Avg-Max.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-11-03 | 14 | [Total Price Using Arrays](/2026-11-03/14-Total-Price-Using-Arrays/Total-Price-Using-Arrays.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-11-03 | 15 | Linear Search in an Array | [All matches](/2026-11-03/15-Linear-Search/Linear-Search-All-Matches.c)<br>[First match](/2026-11-03/15-Linear-Search/Linear-Search-First-Match.c) | ✅ | ⬜ | ⬜ |
-
-## Extra Programs (Not Yet Done in the Lab)
-
-| # | Program | Method | C | C++ | Python |
-|---|---------|--------|---|-----|--------|
-| 01 | [Bubble Sort](/Other/Bubble-Sort/Bubble-Sort.c) | - | ✅ | ⬜ | ⬜ |
-
-## How to Compile (C)
-
-```bash
-gcc <file-name>.c -o <output-name>
-./<output-name>
+```text
+CSE-Lab-Works/
+│
+├── README.md
+│
+├── 1st-Year/
+│   ├── 1st-Semester/
+│   │   ├── 01-Structured-Programming-Language/
+│   │   ├── 02-Electrical-and Electronic-Circuit/
+│   │   └── ...
+│   │
+│   └── 2nd-Semester/
+│       ├── 01-Digital-Systems-Design/
+│       ├── 02-Discrete-Mathematics/
+│       └── ...
+│
+├── 2nd-Year/
+│   ├── 3rd-Semester/
+│   └── 4th-Semester/
+│
+├── 3rd-Year/
+│   ├── 5th-Semester/
+│   └── 6th-Semester/
+│
+└── 4th-Year/
+    ├── 7th-Semester/
+    └── 8th-Semester/
 ```
 
-- For programs that use `<math.h>` (Program 07), add `-lm` at the end of the command.
-- On Windows (Command Prompt), run the output with `<output-name>.exe`. In PowerShell, use `.\<output-name>.exe`.
+## Courses and Laboratory Works
+
+| Academic Year | Semester | Courses |
+|---------------|----------|---------|
+| 1st Year | 1st Semester | Structured Programming Language (SPL), Electrical and Electronic Circuits (EEC), Calculus, Physics, English |
+| 1st Year | 2nd Semester | Digital Systems Design (DSD), Discrete Mathematics, Linear Algebra, Statistics and Probability, History of Independent Bangladesh |
+| 2nd Year | 3rd Semester | Data Structures, Object-Oriented Programming (OOP), Computer Architecture, Ordinary Differential Equations, Business Studies |
+| 2nd Year | 4th Semester | Database Management Systems (DBMS), Microprocessor and Assembly Language, Algorithms, Numerical Analysis |
+| 3rd Year | 5th Semester | Peripheral and Interfacing, Data and Telecommunications, Operating Systems, Economics |
+| 3rd Year | 6th Semester | Software Engineering, Computer Networking, Embedded System Programming, Theory of Computation |
+| 4th Year | 7th Semester | Artificial Intelligence, Compiler Design, Computer Graphics, E-Commerce and Web Engineering |
+| 4th Year | 8th Semester | Network and Information Security, Information System Management, Project/Industry Attachment, Optional Courses |
+
+## Programming Languages
+
+The repository may contain implementations using the following programming languages:
+
+- C
+- C++
+- Java
+- Python
+- Other languages as required by individual courses.
+
+## Objectives
+
+- Organize university laboratory works and practical assignments in one place.
+- Maintain source code and related documentation.
+- Practice programming concepts and problem-solving techniques.
+- Track progress across semesters and courses.
+- Build a reference collection for future learning and revision.
+
+## Disclaimer
+
+This repository contains academic work completed as part of the CSE program. The implementations may be updated, improved, or corrected over time.
+
+## License
+
+Unless otherwise specified, the contents of this repository are intended for educational and learning purposes.
