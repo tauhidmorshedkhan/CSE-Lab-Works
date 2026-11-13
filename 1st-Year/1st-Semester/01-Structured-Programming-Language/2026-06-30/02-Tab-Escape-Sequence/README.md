@@ -17,9 +17,9 @@
 
 ## Sample Output
 ```text
-Country A
-Country B
-        Country A
+Team A
+Team B
+        Team A
         Score: (3 - 1)
 ```
 &emsp;&emsp;The gap before the last two lines is one tab. Its width depends on the terminal (usually 8 characters).<br>

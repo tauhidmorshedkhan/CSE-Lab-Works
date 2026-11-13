@@ -2,6 +2,6 @@
 
 int main()
     {
-     printf("Name: Your Name\nRoll: Your Roll Number\nFavorite Subject: Your Favorite Subject\n");
+     printf("Name: Rahim Uddin\nRoll: 001\nFavorite Subject: SPL\n");
      return 0;
     }

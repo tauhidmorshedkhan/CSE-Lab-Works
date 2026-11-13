@@ -30,12 +30,15 @@ Structured Programming Language (SPL) Lab programs for the Department of Compute
 | 2026-11-01 | 13 | [Array: Sum, Average and Maximum](2026-11-01/13-Array-Sum-Avg-Max/Array-Sum-Avg-Max.c) | - | ✅ | ⬜ | ⬜ |
 | 2026-11-03 | 14 | [Total Price Using Arrays](2026-11-03/14-Total-Price-Using-Arrays/Total-Price-Using-Arrays.c) | - | ✅ | ⬜ | ⬜ |
 | 2026-11-03 | 15 | Linear Search in an Array | [All matches](2026-11-03/15-Linear-Search/Linear-Search-All-Matches.c)<br>[First match](2026-11-03/15-Linear-Search/Linear-Search-First-Match.c) | ✅ | ⬜ | ⬜ |
+| 2026-11-11 | 16 | [Bubble Sort (Ascending Order)](2026-11-11/16-Bubble-Sort-Ascending-Order/16-Bubble-Sort-Ascending-Order.c) | - | ✅ | ⬜ | ⬜ |
+| 2026-11-11 | 17 | [Full Name Concatenation](2026-11-11/17-Full-Name-Concatenation/17-Full-Name-Concatenation.c) | - | ✅ | ⬜ | ⬜ |
+| 2026-11-11 | 18 | [Bubble Sort with User Selected Order](2026-11-11\18-Bubble-Sort-With-User-Choice\18-Bubble-Sort-with-User-Selected-Order.c) | - | ✅ | ⬜ | ⬜ |
 
 ## Extra Programs (Not Yet Done in the Lab)
 
 | # | Program | Method | C | C++ | Python |
 |---|---------|--------|---|-----|--------|
-| 01 | [Bubble Sort](Other/Bubble-Sort/Bubble-Sort.c) | - | ✅ | ⬜ | ⬜ |
+| - | - | - | ⬜ | ⬜ | ⬜ |
 
 ## How to Compile (C)
 

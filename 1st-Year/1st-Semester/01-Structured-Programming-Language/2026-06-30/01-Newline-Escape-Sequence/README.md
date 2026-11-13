@@ -22,9 +22,9 @@
 
 ## Sample Output
 ```text
-Name: Your Name
-Roll: Your Roll Number
-Favorite Subject: Your Favorite Subject
+Name: Rahim Uddin
+Roll: 001
+Favorite Subject: SPL
 ```
 
 ## How to Compile and Run

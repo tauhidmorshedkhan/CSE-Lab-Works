@@ -2,8 +2,8 @@
 
 int main()
 {
-    printf("Name: Your Name\n");
-    printf("Roll: Your Roll Number\n");
-    printf("Favorite Subject: Your Favorite Subject\n");
+    printf("Name: Rahim Uddin\n");
+    printf("Roll: 001\n");
+    printf("Favorite Subject: SPL\n");
     return 0;
 }
