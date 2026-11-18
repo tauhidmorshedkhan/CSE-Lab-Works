@@ -15,32 +15,33 @@ Structured Programming Language (SPL) Lab programs for the Department of Compute
 
 | Date | # | Program | Method | C | C++ | Python |
 |------|---|---------|--------|---|-----|--------|
-| 2026-06-30 | 01 | Print Name, Roll and Favorite Subject | [Multiple printf](2026-06-30/01-Newline-Escape-Sequence/Newline-Multiple-Printf.c)<br>[Single printf](2026-06-30/01-Newline-Escape-Sequence/Newline-Single-Printf.c) | ✅ | ⬜ | ⬜ |
-| 2026-06-30 | 02 | [Tab Escape Sequence](2026-06-30/02-Tab-Escape-Sequence/Tab-Escape-Sequence.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-08-11 | 03 | [Area and Perimeter of a Circle](2026-08-11/03-Area-and-Perimeter-of-the-Circle/Area-and-Perimeter-of-the-Circle.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-08-11 | 04 | [Area and Perimeter of a Rectangle](2026-08-11/04-Area-and-Perimeter-of-the-Rectangle/Area-and-Perimeter-of-the-Rectangle.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-02 | 05 | [Check Even or Odd](2026-09-02/05-Check-Even-Or-Odd/Check-Even-Or-Odd.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-07 | 06 | [Temperature Conversion (Celsius and Fahrenheit)](2026-09-07/06-Convert-Temperature-Celsius-Fahrenheit/Convert-Temperature-Celsius-Fahrenheit.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-14 | 07 | [Roots of a Quadratic Equation](2026-09-14/07-Find-Roots-Of-Quadratic-Equation/Find-Roots-Of-Quadratic-Equation.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-14 | 08 | Factorial of a Number | [Decrementing loop](2026-09-14/08-Find-Factorial-Of-A-Number/Find-Factorial-Of-A-Number-Using-Decrementing-Loop.c)<br>[Incrementing loop](2026-09-14/08-Find-Factorial-Of-A-Number/Find-Factorial-Of-A-Number-Using-Incrementing-Loop.c) | ✅ | ⬜ | ⬜ |
-| 2026-09-29 | 09 | [Factorial Series Sum](2026-09-29/09-Factorial-Series-Sum/Factorial-Series-Sum.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-29 | 10 | [Fibonacci Series](2026-09-29/10-Fibonacci-Series/Fibonacci-Series.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-10-27 | 11 | Smallest of Three Numbers | [Multiple printf](2026-10-27/11-Find-Smallest-Among-Three-Numbers/Smallest-Number-Multiple-Printf.c)<br>[Single printf](2026-10-27/11-Find-Smallest-Among-Three-Numbers/Smallest-Number-Single-Printf.c) | ✅ | ⬜ | ⬜ |
-| 2026-11-01 | 12 | Toggle the Case of a Letter | [Assign](2026-11-01/12-Toggle-Case/Toggle-Case-Assign.c)<br>[Direct](2026-11-01/12-Toggle-Case/Toggle-Case-Direct.c) | ✅ | ⬜ | ⬜ |
-| 2026-11-01 | 13 | [Array: Sum, Average and Maximum](2026-11-01/13-Array-Sum-Avg-Max/Array-Sum-Avg-Max.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-11-03 | 14 | [Total Price Using Arrays](2026-11-03/14-Total-Price-Using-Arrays/Total-Price-Using-Arrays.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-11-03 | 15 | Linear Search in an Array | [All matches](2026-11-03/15-Linear-Search/Linear-Search-All-Matches.c)<br>[First match](2026-11-03/15-Linear-Search/Linear-Search-First-Match.c) | ✅ | ⬜ | ⬜ |
-| 2026-11-11 | 16 | [Bubble Sort (Ascending Order)](2026-11-11/16-Bubble-Sort-Ascending-Order/16-Bubble-Sort-Ascending-Order.c) | - | ✅ | ⬜ | ⬜ |
+| 2026-06-30 | 01 | [Print Name, Roll and Favorite Subject](2026-06-30/01-Newline-Escape-Sequence) | Multiple printf<br>Single printf | ✅ | ⬜ | ⬜ |
+| 2026-06-30 | 02 | [Tab Escape Sequence](2026-06-30/02-Tab-Escape-Sequence) | - | ✅ | ⬜ | ⬜ |
+| 2026-08-11 | 03 | [Area and Perimeter of a Circle](2026-08-11/03-Area-and-Perimeter-of-the-Circle) | - | ✅ | ⬜ | ⬜ |
+| 2026-08-11 | 04 | [Area and Perimeter of a Rectangle](2026-08-11/04-Area-and-Perimeter-of-the-Rectangle) | - | ✅ | ⬜ | ⬜ |
+| 2026-09-02 | 05 | [Check Even or Odd](2026-09-02/05-Check-Even-Or-Odd) | - | ✅ | ⬜ | ⬜ |
+| 2026-09-07 | 06 | [Temperature Conversion (Celsius and Fahrenheit)](2026-09-07/06-Convert-Temperature-Celsius-Fahrenheit) | - | ✅ | ⬜ | ⬜ |
+| 2026-09-14 | 07 | [Roots of a Quadratic Equation](2026-09-14/07-Find-Roots-Of-Quadratic-Equation) | - | ✅ | ⬜ | ⬜ |
+| 2026-09-14 | 08 | Factorial of a Number | [Decrementing loop](2026-09-14/08-Find-Factorial-Of-A-Number)<br>[Incrementing loop](2026-09-14/08-Find-Factorial-Of-A-Number) | ✅ | ⬜ | ⬜ |
+| 2026-09-29 | 09 | [Factorial Series Sum](2026-09-29/09-Factorial-Series-Sum) | - | ✅ | ⬜ | ⬜ |
+| 2026-09-29 | 10 | [Fibonacci Series](2026-09-29/10-Fibonacci-Series) | - | ✅ | ⬜ | ⬜ |
+| 2026-10-27 | 11 | [Smallest of Three Numbers](2026-10-27/11-Find-Smallest-Among-Three-Numbers) | Multiple printf<br>Single printf | ✅ | ⬜ | ⬜ |
+| 2026-11-01 | 12 | [Toggle the Case of a Letter](2026-11-01/12-Toggle-Case) | Assign<br>Direct | ✅ | ⬜ | ⬜ |
+| 2026-11-01 | 13 | [Array: Sum, Average and Maximum](2026-11-01/13-Array-Sum-Avg-Max) | - | ✅ | ⬜ | ⬜ |
+| 2026-11-03 | 14 | [Total Price Using Arrays](2026-11-03/14-Total-Price-Using-Arrays) | - | ✅ | ⬜ | ⬜ |
+| 2026-11-03 | 15 | [Linear Search in an Array](2026-11-03/15-Linear-Search) | All matches<br>First match | ✅ | ⬜ | ⬜ |
+| 2026-11-11 | 16 | [Bubble Sort (Ascending Order)](2026-11-11/16-Bubble-Sort-Ascending-Order) | - | ✅ | ⬜ | ⬜ |
 | 2026-11-11 | 17 | [Full Name Concatenation](2026-11-11/17-Full-Name-Concatenation/17-Full-Name-Concatenation.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-11-11 | 18 | [Bubble Sort with User Selected Order](2026-11-11/18-Bubble-Sort-With-User-Choice/18-Bubble-Sort-with-User-Selected-Order.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-11-17 | 19 | [Reverse Digits and Sum of Digits](2026-11-17/19-Reverse-Digits-And-Sum-Of-Digits/Reverse-Digits-And-Sum-Of-Digits.c) | - | ✅ | ⬜ | ⬜ |
-| 2026-11-17 | 20 | [GCD Using Euclidean Algorithm](2026-11-17/20-GCD-Using-Euclidean-Algorithm/GCD-Using-Euclidean-Algorithm.c) | Euclidean | ✅ | ⬜ | ⬜ |
+| 2026-11-11 | 18 | [Bubble Sort with User Selected Order](2026-11-11/18-Bubble-Sort-With-User-Choice) | - | ✅ | ⬜ | ⬜ |
+| 2026-11-17 | 19 | [Reverse Digits and Sum of Digits](2026-11-17/19-Reverse-Digits-And-Sum-Of-Digits | - | ✅ | ⬜ | ⬜ |
+| 2026-11-17 | 20 | [GCD Using Euclidean Algorithm](2026-11-17/20-GCD-Using-Euclidean-Algorithm) | Euclidean | ✅ | ⬜ | ⬜ |
 
 ## Extra Programs (Not Yet Done in the Lab)
 
 | # | Program | Method | C | C++ | Python |
 |---|---------|--------|---|-----|--------|
-| - | - | - | ⬜ | ⬜ | ⬜ |
+| 01 | [Largest of Three Numbers](Other/01-Find-Largest-Among-Three-Numbers) | Multiple printf<br>Single printf | ✅ | ⬜ | ⬜ |
+| 02 | [Leap Year Check](Other/02-Leap-Year-Check) | - | ✅ | ⬜ | ⬜ |
 
 ## How to Compile (C)
 
