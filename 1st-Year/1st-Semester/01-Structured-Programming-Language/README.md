@@ -33,7 +33,7 @@ Structured Programming Language (SPL) Lab programs for the Department of Compute
 | 2026-11-11 | 16 | [Bubble Sort (Ascending Order)](2026-11-11/16-Bubble-Sort-Ascending-Order) | - | ✅ | ⬜ | ⬜ |
 | 2026-11-11 | 17 | [Full Name Concatenation](2026-11-11/17-Full-Name-Concatenation/17-Full-Name-Concatenation.c) | - | ✅ | ⬜ | ⬜ |
 | 2026-11-11 | 18 | [Bubble Sort with User Selected Order](2026-11-11/18-Bubble-Sort-With-User-Choice) | - | ✅ | ⬜ | ⬜ |
-| 2026-11-17 | 19 | [Reverse Digits and Sum of Digits](2026-11-17/19-Reverse-Digits-And-Sum-Of-Digits | - | ✅ | ⬜ | ⬜ |
+| 2026-11-17 | 19 | [Reverse Digits and Sum of Digits](2026-11-17/19-Reverse-Digits-And-Sum-Of-Digits) | - | ✅ | ⬜ | ⬜ |
 | 2026-11-17 | 20 | [GCD Using Euclidean Algorithm](2026-11-17/20-GCD-Using-Euclidean-Algorithm) | Euclidean | ✅ | ⬜ | ⬜ |
 
 ## Extra Programs (Not Yet Done in the Lab)
