@@ -22,7 +22,7 @@ Structured Programming Language (SPL) Lab programs for the Department of Compute
 | 2026-09-02 | 05 | [Check Even or Odd](2026-09-02/05-Check-Even-Or-Odd) | - | ✅ | ⬜ | ⬜ |
 | 2026-09-07 | 06 | [Temperature Conversion (Celsius and Fahrenheit)](2026-09-07/06-Convert-Temperature-Celsius-Fahrenheit) | - | ✅ | ⬜ | ⬜ |
 | 2026-09-14 | 07 | [Roots of a Quadratic Equation](2026-09-14/07-Find-Roots-Of-Quadratic-Equation) | - | ✅ | ⬜ | ⬜ |
-| 2026-09-14 | 08 | Factorial of a Number | [Decrementing loop](2026-09-14/08-Find-Factorial-Of-A-Number)<br>[Incrementing loop](2026-09-14/08-Find-Factorial-Of-A-Number) | ✅ | ⬜ | ⬜ |
+| 2026-09-14 | 08 | [Factorial of a Number](2026-09-14/08-Find-Factorial-Of-A-Number) | Decrementing loop<br>Incrementing loop | ✅ | ⬜ | ⬜ |
 | 2026-09-29 | 09 | [Factorial Series Sum](2026-09-29/09-Factorial-Series-Sum) | - | ✅ | ⬜ | ⬜ |
 | 2026-09-29 | 10 | [Fibonacci Series](2026-09-29/10-Fibonacci-Series) | - | ✅ | ⬜ | ⬜ |
 | 2026-10-27 | 11 | [Smallest of Three Numbers](2026-10-27/11-Find-Smallest-Among-Three-Numbers) | Multiple printf<br>Single printf | ✅ | ⬜ | ⬜ |
