@@ -45,7 +45,7 @@
 ```text
 Enter 3 integer numbers:
 5 9 3
-9 is the largest number.
+The largest number is: 9
 ```
 
 **Single `printf()` file**
