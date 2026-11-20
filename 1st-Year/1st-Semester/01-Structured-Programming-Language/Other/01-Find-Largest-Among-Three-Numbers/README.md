@@ -38,7 +38,6 @@
 | Comparisons made | 1 to 3 (stops at the first true condition) | always 2 |
 | Structure | one `if - else if - else` ladder | two separate `if` statements |
 | Easy to extend to more numbers | no, the ladder gets longer | yes, add one more `if` (or use a loop) |
-| Output message | `<number> is the largest number.` | `The largest number is: <number>` |
 | Result | the same largest number | the same largest number |
 
 ## Sample Input / Output
